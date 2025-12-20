@@ -1,4 +1,4 @@
-#inclde<iostream>
+#include<iostream>
 using namespace std;
 
 void printName(string name, int n){
